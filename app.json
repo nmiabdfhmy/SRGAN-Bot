@@ -8,11 +8,7 @@
   ],
   "repository": "https://github.com/nmiabdfhmy/SRGAN-Bot",
   "logo": "https://telegra.ph/file/2df3529c4b93e0516216f.jpg",
-  "env": {
-    "TG_BOT_TOKEN": {
-      "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
-      "value": ""
-    },
+
   "addons": [
     {
     "plan": "heroku-postgresql",
